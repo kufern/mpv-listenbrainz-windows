@@ -9,4 +9,4 @@ This script was originally made by Alexandre Rousseau (madeindjs) [[link](https:
 # Installation
 To download the file, go to [the file](/blob/main/mpv-listenbrainz.js) and click on the download button.
 
-Then, put it in the mpv \scripts folder. This will either be at "%APPDATA%\mpv\scripts\" or "\apps\mpv\current\portable_config\scripts" if you are using [scoop](scoop.sh) (**NOTE:** You will have to make the folder if its not there)
+Then, put it in the mpv \scripts folder. This will either be at "%APPDATA%\mpv\scripts\" or "\apps\mpv\current\portable_config\scripts" if you are using [scoop](https://scoop.sh) (**NOTE:** You will have to make the folder if its not there)
