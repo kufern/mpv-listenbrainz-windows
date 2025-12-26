@@ -10,3 +10,13 @@ This script was originally made by Alexandre Rousseau (madeindjs) [[link](https:
 To download the file, go to [the file](/blob/main/mpv-listenbrainz.js) and click on the download button.
 
 Then, put it in the mpv \scripts folder. This will either be at "%APPDATA%\mpv\scripts\" or "\apps\mpv\current\portable_config\scripts" if you are using [scoop](https://scoop.sh) (**NOTE:** You will have to make the folder if it's not there)
+
+Finally, open Powershell and run this:
+```
+setx LISTENBRAINZ_USER_TOKEN "<token>"
+```
+To get your token, go to https://listenbrainz.org/settings/
+
+**Close that Powershell windows and mpv**, then open it back up. Run `$env:LISTENBRAINZ_USER_TOKEN` to check if your token has been set.
+
+Run `mpv <insert song location>` to see if its working. After this, you can use the GUI like normal.
