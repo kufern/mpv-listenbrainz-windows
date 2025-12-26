@@ -1,7 +1,7 @@
 # mpv-listenbrainz-windows
 A Windows script to submit mpv listens to ListenBrainz
 
-**FULL DISCLOSURE:** I have used an LLM to help make this script. If you are not okay with using LLM-written code, feel free to ignore this and carry on. I will probably go back and fix this up when I get better at this.
+**FULL DISCLOSURE:** I used ChatGPT to help make this script. If you are not okay with using clanker-written code, feel free to ignore this and carry on. I will probably go back and fix this up when I get better at this.
 
 This script was originally made by Alexandre Rousseau (madeindjs) [[link](https://gist.github.com/madeindjs/f33225cf4d8fdc9f61e0fe3ebe2dcce7)]. I have retooled it in order to make it work on Windows
 
